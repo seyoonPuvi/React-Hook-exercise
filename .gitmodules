@@ -13,3 +13,6 @@
 [submodule "React-Hooks-Exercise-5a"]
 	path = React-Hooks-Exercise-5a
 	url = https://github.com/seyoonPuvi/React-Hooks-Exercise-5a.git
+[submodule "BMI-calculator-ReactHook"]
+	path = BMI-calculator-ReactHook
+	url = https://github.com/seyoonPuvi/BMI-calculator-ReactHook.git
