@@ -10,3 +10,6 @@
 [submodule "React-Hooks-Exercise-5"]
 	path = React-Hooks-Exercise-5
 	url = https://github.com/seyoonPuvi/React-Hooks-Exercise-5.git
+[submodule "React-Hooks-Exercise-5a"]
+	path = React-Hooks-Exercise-5a
+	url = https://github.com/seyoonPuvi/React-Hooks-Exercise-5a.git
