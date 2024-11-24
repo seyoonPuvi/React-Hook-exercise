@@ -1,3 +1,6 @@
 [submodule "React-Hooks-Exercise-1"]
 	path = React-Hooks-Exercise-1
 	url = https://github.com/seyoonPuvi/React-Hooks-Exercise-1.git
+[submodule "React-Hooks-Exercise-2"]
+	path = React-Hooks-Exercise-2
+	url = https://github.com/seyoonPuvi/React-Hooks-Exercise-2.git
